@@ -12,3 +12,9 @@
 </pre>
 # houston
 a complicated hardware solution to a simple software button.
+<br></br>
+<br></br>
+<br></br>
+## how to:
+connect pin 5 to ground.
+<img src="https://raw.githubusercontent.com/koutsie/houston/master/houston.png">
